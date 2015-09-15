@@ -1,0 +1,26 @@
+#discriptionTxtArea {
+    display: block;
+}
+
+h1 {
+    text-align: center;
+}
+
+#inputSection {
+    width: 40%;
+    float: left;
+    margin: 5px;
+}
+
+#categorySection {
+    width: 40%;
+    float: right;
+}
+
+#discriptionSection {
+    clear: both;
+}
+
+#count {
+    text-align: center;
+}
